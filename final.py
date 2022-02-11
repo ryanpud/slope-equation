@@ -7,5 +7,8 @@ y2 = float(input('Please Enter Your Second Y-Value:'))
 
 
 
-#print('y' + '/n' + '=' + '/n' + slope_final + 'x' + '/n' + y-int_final)
+#print('y' + ' ' + '=' + ' ' + slope_final + 'x' + ' ' + y-int_final)
+#print('Slope: ' + slope_final)
+#print('Y-int: ' + y-int_final)
+#print('Ordered Pairs: ' )
 #I commented this out so it won't error out
