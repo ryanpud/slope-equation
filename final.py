@@ -1,5 +1,4 @@
-import yint
-import slope
+import src
 
 x1 = float(input('Please Enter Your First X-Value:'))
 x2 = float(input('Please Enter Your Second X-Value:'))
