@@ -1,3 +1,6 @@
+import yint
+import slope
+
 x1 = float(input('Please Enter Your First X-Value:'))
 x2 = float(input('Please Enter Your Second X-Value:'))
 y1 = float(input('Please Enter Your First Y-Value:'))
