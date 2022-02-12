@@ -1,4 +1,5 @@
-import src
+from src import slope, pairpackaging, yint
+
 
 x1 = float(input('Please Enter Your First X-Value:'))
 x2 = float(input('Please Enter Your Second X-Value:'))
@@ -7,8 +8,8 @@ y2 = float(input('Please Enter Your Second Y-Value:'))
 
 
 
-#print('y' + ' ' + '=' + ' ' + slope_final + 'x' + ' ' + y-int_final)
-#print('Slope: ' + slope_final)
-#print('Y-int: ' + y-int_final)
-#print('Ordered Pairs: ' )
-#I commented this out so it won't error out
+##print('y' + ' ' + '=' + ' ' + slope_final + 'x' + ' ' + yint_final)
+##print('Slope: ' + slope_final)
+##print('Y-int: ' + yint_final)
+##print('Ordered Pair 1: ' + pair1)
+##print('Ordered Pair 2: ' + pair2)
