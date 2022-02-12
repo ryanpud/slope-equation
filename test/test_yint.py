@@ -7,5 +7,5 @@ class TestYint(unittest.TestCase):
         self.assertEqual(result, 15)
     
     def test_yinttest2(self):
-        result2 = yint.yint_final(5, 3)
-        self.assertEqual(result2, 2)
+        result = yint.yint_final(5, 3)
+        self.assertEqual(result, 2)

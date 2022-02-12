@@ -1,7 +1,3 @@
-from multiprocessing.spawn import import_main_path
-
-
-import final
 def yint_multiply(slope_final, x1):
     return slope_final * x1
 
