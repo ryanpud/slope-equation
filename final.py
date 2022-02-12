@@ -7,7 +7,7 @@ y1 = float(input('Please Enter Your First Y-Value:'))
 y2 = float(input('Please Enter Your Second Y-Value:'))
 
 if x2 == x1:
-    print("Cannot Divide By Zero, Slope Unedfined")
+    print("Cannot Divide By Zero, Slope Undefined")
     quit()
 
 
