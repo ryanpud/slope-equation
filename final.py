@@ -19,7 +19,7 @@ pair1 = pairpackaging.pair(x1,y1)
 pair2 = pairpackaging.pair(x2,y2)
 
 
-print('y = ' + str(slope_final) + 'x ' + str(yint_final))
+print('y = ' + str(slope_final) + 'x ' + 'x' + str(yint_final))
 print('Slope:' , slope_final)
 print('Y-int:' , yint_final)
 print('Ordered Pair 1:' , pair1)
